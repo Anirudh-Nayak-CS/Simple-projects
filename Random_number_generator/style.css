@@ -1,0 +1,22 @@
+.image {
+margin-left: 750px;
+}
+
+.title {
+  margin-left: 750px;
+  font-size: 40px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  border-radius: 15px;
+  cursor: pointer;
+  background-color: aquamarine;
+  margin-top: 50px;
+  margin-left: 950px;
+}
+.number {
+  font-size: 40px;
+  margin-left: 985px;
+}
